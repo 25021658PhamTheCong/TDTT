@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+print("tong cua a va b" , a + b )
+print("hieu cua a va b" , a - b )
+print("tich cua a va b" , a * b )
+print("thuong cua a va b" , round((10 / 3), 2))
+print("phan du cua a chia b" , a % b)
+print("phan nguyen cua a chia b" , a // b)
